@@ -1,0 +1,3 @@
+solo se ha copiado el eras original del juego,modificado el numero de unidades militares a 1.
+no se ha modificado la disponibilidad de maravillas, eso sera en un futuro o en otro mod.
+de hecho este archivo eras puede ser omitido, pues , el objetivo era eliminar la ventaja de la IA, eso es controlado en difficulties.json

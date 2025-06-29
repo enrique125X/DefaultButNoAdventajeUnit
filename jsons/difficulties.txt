@@ -1,0 +1,2 @@
+Se ha copiado el archivo original y se ha eliminado toda unidad y tecnologia extra para la IA.
+por lo tanto la IA conserva sus bonificaciones de deidad, pero no empiza con colonos extras ni tecnologias.
