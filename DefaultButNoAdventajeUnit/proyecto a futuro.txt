@@ -1,5 +1,0 @@
-se añadiran plantillas con diferentes dificultades, por ejemplo
-dificultad principipe pero la ia empieza con 3 colonos extra.
-o la ia empieza con alguna ventaja mejor.
-
-o simplemente se reajusto lo ya hecho
