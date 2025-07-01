@@ -242,7 +242,7 @@
 	
 		{
 		"name": "Hell",
-		"baseHappiness": 5,
+		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1.1,
 		"unitCostModifier": 1.1,
