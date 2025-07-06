@@ -270,4 +270,36 @@
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	}
+{
+		"name": "Hell2",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1.1,
+		"unitCostModifier": 1.1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1.1,
+		"policyCostModifier": 1.1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 10,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [Worker],
+        "aiDifficultyLevel": "Chieftain",
+		"aiCityGrowthModifier": 0.50,
+		"aiUnitCostModifier": 1,
+		"aiBuildingCostModifier": 0.40,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 0.40,
+		"aiUnitMaintenanceModifier": 0.40,
+		"aiUnitSupplyModifier": 0.40,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.5,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 25
+	}
+
+	
 ]
