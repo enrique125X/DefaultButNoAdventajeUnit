@@ -281,7 +281,7 @@
 		"buildingCostModifier": 1.1,
 		"policyCostModifier": 1.1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 10,
+		"barbarianBonus": 0.10,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [Worker],
         "aiDifficultyLevel": "Chieftain",
