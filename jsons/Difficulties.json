@@ -286,7 +286,7 @@
 		"playerBonusStartingUnits": [Worker],
         "aiDifficultyLevel": "Chieftain",
 		"aiCityGrowthModifier": 0.50,
-		"aiUnitCostModifier": 1,
+		"aiUnitCostModifier": 0.6,
 		"aiBuildingCostModifier": 0.40,
 		"aiWonderCostModifier": 1,
 		"aiBuildingMaintenanceModifier": 0.40,
