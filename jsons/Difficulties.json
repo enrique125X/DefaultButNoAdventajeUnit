@@ -388,7 +388,7 @@
                 "aiCityStateBonusStartingUnits": [],
                 "aiUnhappinessModifier": 0.40,
                 "aisExchangeTechs": true,
-                "turnBarbariansCanEnterPlayerTiles": -200,
+                "turnBarbariansCanEnterPlayerTiles": 0,
                 "clearBarbarianCampReward": 35
         }
 
