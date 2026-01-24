@@ -32,7 +32,7 @@
         "modifier": 1,
         "productionCostModifier": 1,
         "goldCostModifier": 1,
-        "scienceCostModifier": 1.5,
+        "scienceCostModifier": 1.6,
         "cultureCostModifier": 1,
         "faithCostModifier": 1.2,
         "improvementBuildLengthModifier": 1,
