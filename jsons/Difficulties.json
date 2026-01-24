@@ -392,5 +392,38 @@
                 "clearBarbarianCampReward": 35
         }
 
+
+
+{
+                "name": "Infierno -breakbarbarian-real",
+                "baseHappiness": 7,
+                "extraHappinessPerLuxury":-1,
+                "researchCostModifier": 1.5,
+                "unitCostModifier": 1,
+                "unitSupplyBase": 5,
+                "unitSupplyPerCity": 2,
+                "buildingCostModifier": 1,
+                "policyCostModifier": 1,
+                "unhappinessModifier": 1,
+                "barbarianBonus": 0,
+                "barbarianSpawnDelay": 0,
+                "playerBonusStartingUnits": ["Worker","Archer"],
+        "aiDifficultyLevel": "Chieftain",
+                "aiCityGrowthModifier": 0.20,
+                "aiUnitCostModifier": 0.33,
+                "aiBuildingCostModifier": 0.26,
+                "aiWonderCostModifier": 0.70,
+                "aiBuildingMaintenanceModifier": 0.20,
+                "aiUnitMaintenanceModifier": 0.20,
+                "aiUnitSupplyModifier": 0.20,
+                "aiFreeTechs": [],
+                "aiMajorCivBonusStartingUnits": [],
+                "aiCityStateBonusStartingUnits": ["worker"],
+                "aiUnhappinessModifier": 0.40,
+                "aisExchangeTechs": true,
+                "turnBarbariansCanEnterPlayerTiles": 0,
+                "clearBarbarianCampReward": 40
+        }
+
 	
 ]
