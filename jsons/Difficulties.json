@@ -418,7 +418,7 @@
                 "aiUnitSupplyModifier": 0.20,
                 "aiFreeTechs": [],
                 "aiMajorCivBonusStartingUnits": [],
-                "aiCityStateBonusStartingUnits": ["worker","warrior"],
+                "aiCityStateBonusStartingUnits": [],
                 "aiUnhappinessModifier": 0.40,
                 "aisExchangeTechs": true,
                 "turnBarbariansCanEnterPlayerTiles": 0,
