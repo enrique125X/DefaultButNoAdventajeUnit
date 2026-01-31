@@ -374,7 +374,7 @@
                 "unhappinessModifier": 1,
                 "barbarianBonus": 0.15,
                 "barbarianSpawnDelay": -50,
-                "playerBonusStartingUnits": ["Worker","Archer","scouts","warrior"],
+                "playerBonusStartingUnits": ["Worker","Archer","Scouts","Warrior"],
         "aiDifficultyLevel": "Chieftain",
                 "aiCityGrowthModifier": 0.25,
                 "aiUnitCostModifier": 0.38,
