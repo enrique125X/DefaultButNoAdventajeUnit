@@ -262,7 +262,7 @@
 		"aiUnitSupplyModifier": 0.3,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": ["Fisherman"],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.3,
 		"aisExchangeTechs": true,
 	    "turnBarbariansCanEnterPlayerTiles": 0,
