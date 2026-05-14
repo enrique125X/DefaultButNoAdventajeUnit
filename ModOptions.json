@@ -1,0 +1,14 @@
+
+  {
+    "isBaseRuleset": false,
+    "constants": {
+      "cityWorkRange": 4,
+      "cityStrengthPerPop": 1,
+      "baseCityBombardRange": 3,
+      "cityAirUnitCapacity": 3,
+      "minimalCityDistance": 4,
+      "minimalCityDistanceOnDifferentContinents": 3
+    }
+  }
+
+      
