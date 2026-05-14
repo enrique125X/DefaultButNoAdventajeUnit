@@ -1,5 +1,14 @@
-{
-  "baseCityGrowthThreshold": 3,
-  "cityGrowthMultiplier": 2,
-  "cityGrowthExponent": 1.5
-}
+
+  {
+    "isBaseRuleset": false,
+    "constants": {
+      "cityWorkRange": 4,
+      "cityStrengthPerPop": 0.3,
+      "baseCityBombardRange": 3,
+      "cityAirUnitCapacity": 3,
+      "minimalCityDistance": 4,
+      "minimalCityDistanceOnDifferentContinents": 3
+    }
+  }
+
+      
