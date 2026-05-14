@@ -110,9 +110,10 @@
         {
         "name": "Marathon",
         "modifier": 3.0,
+        "growthCostModifier": 1.8,
         "productionCostModifier": 3.0,
         "goldCostModifier": 3.0,
-        "scienceCostModifier": 4.0,
+        "scienceCostModifier": 5.0,
         "cultureCostModifier": 3.0,
         "faithCostModifier": 3.0,
         "improvementBuildLengthModifier": 3.0,
