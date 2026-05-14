@@ -1,0 +1,5 @@
+{
+  "baseCityGrowthThreshold": 15,
+  "cityGrowthMultiplier": 8,
+  "cityGrowthExponent": 1.5
+}
