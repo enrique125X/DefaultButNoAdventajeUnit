@@ -5,6 +5,6 @@
     "Earn [50]% of killed [Barbarian] unit's [Strength] as [Science] <on [Marathon v2] game speed>",
     "Earn [50]% of killed [Barbarian] unit's [Strength] as [Faith] <on [Marathon v2] game speed>",
     "Adopt [Honor] <on [Marathon v2] game speed>",
-        "[50]% Culture cost of natural border growth [all]"
+        "[-40]% Culture cost of natural border growth [All]"
     ]
 }
