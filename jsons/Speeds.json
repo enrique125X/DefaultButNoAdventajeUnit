@@ -135,6 +135,7 @@
             {"yearsPerTurn": 0.083333, "untilTurn": 1500}
         ]
         },
+        {
         "name": "Marathon v2",
         "modifier": 2.4,
         "productionCostModifier": 4,
