@@ -105,24 +105,24 @@
         "turns": [
             {"yearsPerTurn":   1,     "untilTurn":  10000},
         ]
+                
     },
-
         {
-        "name": "Marathon",
-        "modifier": 2.2,
-        "productionCostModifier": 2.65,
-        "goldCostModifier": 3.6,
-        "scienceCostModifier": 6.5,
-        "cultureCostModifier": 3.0,
-        "faithCostModifier": 3.0,
+ "name": "Marathon Real Break",
+        "modifier": 2.4,
+        "productionCostModifier": 4,
+        "goldCostModifier": 2,
+        "scienceCostModifier": 6,
+        "cultureCostModifier": 4,
+        "faithCostModifier": 3,
         "improvementBuildLengthModifier": 3.0,
-        "barbarianModifier": 0.5,
+        "barbarianModifier": 0.55,
         "goldGiftModifier": 0.67,
         "cityStateTributeScalingInterval": 28.0,
         "goldenAgeLengthModifier": 3.0,
-        "religiousPressureAdjacentCity": 3,
-        "peaceDealDuration": 24,
-        "dealDuration": 45,
+        "religiousPressureAdjacentCity": 2,
+        "peaceDealDuration": 25,
+        "dealDuration": 36,
         "startYear": -4000,
         "turns": [
             {"yearsPerTurn":   15,     "untilTurn":  100},
@@ -134,10 +134,9 @@
             {"yearsPerTurn": 0.25,     "untilTurn": 1344},
             {"yearsPerTurn": 0.083333, "untilTurn": 1500}
         ]
-    },
-        {
+        },
         "name": "Marathon v2",
-        "modifier": 3.6,
+        "modifier": 2.4,
         "productionCostModifier": 4,
         "goldCostModifier": 2.8,
         "scienceCostModifier": 9,
